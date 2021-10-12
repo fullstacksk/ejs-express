@@ -1,0 +1,29 @@
+.review_image{
+    width:100px;
+    height:100px;
+    border-radius: 50%;
+    background-color: darkgray;
+}
+.h-auto{
+    height:auto;
+}
+.footer_image{
+    width:75px;
+    height:75px;
+    border-radius: 50%;
+    background-color: orange;
+}
+.border_circle{
+    border:1px solid orange;
+    padding:8px;
+    border-radius: 50%;
+}
+.divider{
+    margin-top:12px;
+    margin-bottom:12px;
+    border:1px solid #f5f5f5;
+}
+
+.full-screen{
+    height: 80vh;
+}
